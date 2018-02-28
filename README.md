@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bcruiseskipy/bobcruise.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ABOUT US 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ Afro art gallery Foundation is an organization of artists that was founded in 2006 With good ideas from Culturaafrica in the Czech republic for more information visit their website www.culturaafrica.org . 
 
-### Markdown
+ABOUT THE FOUNDERS OF THE ORGANISATION 
+ ASAPH BATECEREZA (EXECUTIVE DIRECTOR) Mom and Dad from Uganda but the native parents believed to have migrated from Rwanda . Graduated with Diploma in Fine arts Kyabogo University . Also hold a Certificate in ICT with Canadian incorporation . Asaph Always travels to Nairobi for art and cultural exchange values . Currently studying Bachelors of Education in FINE ART at Mountains of the Moon University . 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ JOB MUGISHA (DIRECTOR)from Uganda and passed Michelangelo school of art and Design . 
+ HAKIM AZZIZ (SCULPTURE /CO-ORDINATOR He is a self taught Artist and all the Parents from Uganda . 
+ ATUHAIRE BREANDA (TREASURER ) Sister of Asaph From Uganda .Graduated with Bachelors degree in Community and Adult Education special needs kyambogo university .She is more interested working with people from the community . 
 
-```markdown
-Syntax highlighted code block
+AIMS AND OBJECTIVES
+•To promote Talents among the youth and the women 
+•Encourage development and skills of self reliance in various sectors such as handcraft making among the youth and women. 
+•To promote exchange program between Africa and the rest of the world. 
+• To promote the talents of young African Artists 
+• To enable members of the Association to be able to support charity organization through organizing exhibitions within Africa and the rest of the world. 
+• To promote African culture to the rest of the world. 
+• To conserve the Environment through Eco Art . 
+• To promote self help generating Income such as Forming small sacco groups 
+•To promote Human rights and Democracy among the children and the women . 
+• To promote Tourism in the region through establishing different Cultural Centres . 
+•To encourage positive influence of culture and Sustainable development among the women. 
+• To promote Environment conservation ,Sanitation and hygiene at house hold level . 
+•Play African fairytales for children and create music dance and drama performances 
+•Establishing painting competition among schools in selected schools. 
+•To establish vocational training centers' thus promoting practical skills like carpentry, Tailoring, Technical drawing,Art and Design. 
 
-# Header 1
-## Header 2
-### Header 3
+ABOUT AFRO ART GALLERY FOUNDATION 
 
-- Bulleted
-- List
+INTRODUCTION
+Afro Art GALLERY FOUNDATION (Development through practical skills) is a Ugandan based non Governmental Organization that was Founded in 2006. The organization is structured with the Board of Directors ,Management /Staff and membership of a net work of the community development /cultural groups in Ruwenzori region 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bcruiseskipy/bobcruise.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ORGANIZATION STRUCTURE
+Level. 1 •General Assembly 
+•Board of Director 
+•Executive Director 
+Level. 2 •Project Co-ordinator 
+•Programe Officers 
+•Field Offices 
+Level. 3 •Finance and Administration 
+•Human Resource Manager Suppor 
